@@ -146,7 +146,7 @@ document.addEventListener('DOMContentLoaded', function() {
         
         /* 背景图片 */
         html {
-            background: url('https://img-zhu0nan-xyz.pages.dev/file/8388bf7512ccbacac69dc.png') no-repeat center center fixed;
+            background: url('https://img-zhu0nan-xyz.pages.dev/file/178ab5cd3d7043fd84696.png') no-repeat center center fixed;
             background-size: cover;
         }
         
@@ -245,7 +245,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
         /* 背景图片 */
         html {
-            background: url('https://img-zhu0nan-xyz.pages.dev/file/8388bf7512ccbacac69dc.png') no-repeat center center fixed;
+            background: url('https://img-zhu0nan-xyz.pages.dev/file/178ab5cd3d7043fd84696.png') no-repeat center center fixed;
             background-size: cover;
         }
 
@@ -372,7 +372,7 @@ document.addEventListener('DOMContentLoaded', function() {
         
         /* 背景图片 */
         html {
-            background: url('https://img-zhu0nan-xyz.pages.dev/file/8388bf7512ccbacac69dc.png') no-repeat center center fixed;
+            background: url('https://img-zhu0nan-xyz.pages.dev/file/178ab5cd3d7043fd84696.png') no-repeat center center fixed;
             background-size: cover;
         }
         
