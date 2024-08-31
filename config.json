@@ -2,8 +2,9 @@
     "title":"梦里寻落花",
     "subTitle":"“爱恨平生”，分享一些思考与感悟",
     "avatarUrl":"https://c175ab41.img-zhu0nan-xyz.pages.dev/file/605a672b638246f796eeb.jpg",
-    "GMEEK_VERSION":"last",
+    "needComment":0,
     "startSite":"08/31/2024",
     "i18n":"CN",
-    "allHead":"<script src='https://zhu0nan.github.io/allpagetheme.js'></script>"
+    "allHead":"<script src='https://zhu0nan.github.io/allpagetheme.js'></script>",
+    "GMEEK_VERSION":"last"
 }
