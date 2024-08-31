@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', function() {
     
 
     //下雨-------------------------------------------------------------------------------------------
-
+/*
     let rainstyle = document.createElement('style');
     rainstyle.type = 'text/css';
     rainstyle.innerHTML = `
@@ -89,7 +89,7 @@ document.addEventListener('DOMContentLoaded', function() {
             rain.style.top = parseInt(rain.style.top) + race + 'px';
         }, 20);
     }, 50);
-
+*/
 
 
 
