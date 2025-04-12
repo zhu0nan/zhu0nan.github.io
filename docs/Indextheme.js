@@ -39,7 +39,7 @@ style.innerHTML = `
 
 /* 背景图片 */
 html {
-    background: url('https://img.liyifan.xyz/file/a2262c314f6a8bd592eba.jpg') no-repeat center center fixed;
+    background: url('https://telegraph-image-2by.pages.dev/api/cfile/AgACAgEAAyEGAASeJKIhAAMDZ_pYqnYFZi8zg9YYZaObc9s2fVgAAqitMRs-gtBHF3ziiSUZ0VoBAAMCAAN3AAM2BA') no-repeat center center fixed;
     background-size: cover;
 }
 
